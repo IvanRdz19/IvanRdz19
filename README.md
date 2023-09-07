@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🏫 I'm currently studying a Computer Science and Technology at Tecnologico De Monterrey<br>🌮 I'm from Mexico<br>🌱 I'm currently learning Front End Development and working on my portfolio<br>📫 How to reach me: ivan.rodriguez.cuevas.19@gmail.com
+🏫 I'm currently studying a Computer Science and Technology at Tecnologico De Monterrey<br>🌮 I'm from Mexico and currently living in Queretaro<br>🌱 I'm currently learning Front End Development and working on my portfolio<br>📫 How to reach me: ivan.rodriguez.cuevas.19@gmail.com
 
 
 ## 🌐 Socials:
